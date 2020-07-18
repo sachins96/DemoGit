@@ -1,0 +1,13 @@
+D:\Nimit Joshi\Projects\KendoUIApplication\KendoUIApplication\bin\KendoUIApplication.dll.config
+D:\Nimit Joshi\Projects\KendoUIApplication\KendoUIApplication\bin\KendoUIApplication.dll
+D:\Nimit Joshi\Projects\KendoUIApplication\KendoUIApplication\bin\KendoUIApplication.pdb
+D:\Nimit Joshi\Projects\KendoUIApplication\KendoUIApplication\obj\Debug\KendoUIApplication.csprojResolveAssemblyReference.cache
+D:\Nimit Joshi\Projects\KendoUIApplication\KendoUIApplication\obj\Debug\KendoUIApplication.dll
+D:\Nimit Joshi\Projects\KendoUIApplication\KendoUIApplication\obj\Debug\KendoUIApplication.pdb
+C:\Users\idnsih\Downloads\KendoUIApplication (1)\KendoUIApplication\KendoUIApplication\bin\KendoUIApplication.dll.config
+C:\Users\idnsih\Downloads\KendoUIApplication (1)\KendoUIApplication\KendoUIApplication\bin\KendoUIApplication.dll
+C:\Users\idnsih\Downloads\KendoUIApplication (1)\KendoUIApplication\KendoUIApplication\bin\KendoUIApplication.pdb
+C:\Users\idnsih\Downloads\KendoUIApplication (1)\KendoUIApplication\KendoUIApplication\obj\Debug\KendoUIApplication.csprojAssemblyReference.cache
+C:\Users\idnsih\Downloads\KendoUIApplication (1)\KendoUIApplication\KendoUIApplication\obj\Debug\KendoUIApplication.csproj.CoreCompileInputs.cache
+C:\Users\idnsih\Downloads\KendoUIApplication (1)\KendoUIApplication\KendoUIApplication\obj\Debug\KendoUIApplication.dll
+C:\Users\idnsih\Downloads\KendoUIApplication (1)\KendoUIApplication\KendoUIApplication\obj\Debug\KendoUIApplication.pdb
